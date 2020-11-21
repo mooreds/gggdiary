@@ -1,1 +1,14 @@
+title: Jenny Pruden's Diary
+email: mooreds@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Diaries of a pioneer
+baseurl: "" 
+url: "" 
+twitter_username: mooreds
+github_username:  mooreds
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+plugins:
+  - jekyll-feed
 theme: jekyll-theme-time-machine
